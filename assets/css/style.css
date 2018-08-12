@@ -1,0 +1,36 @@
+html {
+    background-color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #011936;
+
+}
+
+h1 {
+    color: #49475B;
+    font-size: 30px;
+    text-align: center;
+}
+
+#contact {
+    color:#465362;
+    text-align: center;
+    font-size: 18px;
+}
+
+#title {
+margin-left: 480px;
+font-size: 30px;
+    
+}
+
+#image {
+margin-left: 450px;
+   width: 25%;
+   height: 25%;
+
+}
+
+#work {
+    margin-left: 1000px;
+    margin-top: -190px;
+}
